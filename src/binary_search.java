@@ -1,4 +1,3 @@
-@ -0,0 +1,35 @@
 import java.util.*;
 public class binary_search {
 
