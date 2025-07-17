@@ -28,6 +28,7 @@ public class APNACLG_LECTURE_18_BITMANIPULATION_PRACTICE_QUE {
         System.out.println(num3 + " + 1 = " + -~num3);
 
         //  Solution 4: Convert uppercase to lowercase using bitwise OR
+        
         System.out.println("\nSolution 4: Uppercase to Lowercase Conversion:");
         for (char ch = 'A'; ch <= 'Z'; ch++) {
             System.out.print((char)(ch | ' ')); // Converts to lowercase
