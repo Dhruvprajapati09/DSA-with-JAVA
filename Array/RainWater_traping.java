@@ -1,4 +1,4 @@
-public class rainWater_traping {
+public class RainWater_traping {
     
     public static void trappedRainwater(int height [] ){
 
